@@ -54,5 +54,9 @@ To use the CBOW model, follow these steps:
 
 ### 3D Visualization of Word Embeddings (picture, 3D only on Colab)
   ![Emebddings](https://storage.agendahub.app/wwwroot/w2v/plot.png)
+
+## References
+   * Mikolov, T., Sutskever, I., Chen, K., Corrado, G., & Dean, J. (2013). Distributed Representations of Words and Phrases and their Compositionality. arXiv preprint:1310.4546.
+   * Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient Estimation of Word Representations in Vector Space. arXiv preprint arXiv:1301.3781.
+   * Goldberg, Y., & Levy, O. (2014). word2vec Explained: Deriving Mikolov et al.'s Negative-Sampling Word-Embedding Method. arXiv preprint arXiv:1402.3722.
   
-    
